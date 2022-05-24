@@ -1,4 +1,6 @@
-{"auction":[{
+{
+  "auction": [
+ {
   "auction_num": 1,
   "auction_title": "Test Title1",
   "launch_date": "22/05/2022",
