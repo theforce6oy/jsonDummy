@@ -1,0 +1,40 @@
+[{
+  "auction_num": 1,
+  "auction_title": "Test Title1",
+  "launch_date": "22/05/2022",
+  "auction_description": "It's just Test auction.",
+  "current_amount": 200000,
+  "bid_count": 1
+},
+{
+    "auction_num": 2,
+    "auction_title": "Test Title2",
+    "launch_date": "22/05/2022",
+    "auction_description": "It's just Test auction.",
+    "current_amount": 200000,
+    "bid_count": 1
+  },
+  {
+    "auction_num": 3,
+    "auction_title": "Test Title3",
+    "launch_date": "22/05/2022",
+    "auction_description": "It's just Test auction.",
+    "current_amount": 200000,
+    "bid_count": 1
+  },
+  {
+    "auction_num": 4,
+    "auction_title": "Test Title4",
+    "launch_date": "22/05/2022",
+    "auction_description": "It's just Test auction.",
+    "current_amount": 200000,
+    "bid_count": 1
+  },
+  {
+    "auction_num": 5,
+    "auction_title": "Test Title5",
+    "launch_date": "22/05/2022",
+    "auction_description": "It's just Test auction.",
+    "current_amount": 200000,
+    "bid_count": 1
+  }]
